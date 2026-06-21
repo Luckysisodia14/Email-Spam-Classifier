@@ -3,7 +3,7 @@
 An end-to-end Machine Learning and Natural Language Processing (NLP) web application that detects whether an incoming message or email is **Ham (Safe)**, **Spam (Unwanted/Ad)**, or **Phishing (Dangerous/Fraud)**.
 
 ## 🚀 Live Demo
-🔗 **[Click Here to View the Live Project](https://email-spam-classifier-eiyotax8tfe9hsdc7ticwv.streamlit.app/)** *(Apni live website ka link yahan paste karein)*
+🔗 **[Click Here to View the Live Project](https://email-spam-classifier-eiyotax8tfe9hsdc7ticwv.streamlit.app/)** *(Apni live website ka link yahan paste karein)* 
 
 ---
 
